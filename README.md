@@ -5,6 +5,8 @@ Using **500,000+ real-world transactions (Mar 2016 – Aug 2018)**, this dashboa
 
 ---
 
+![Dashboard](/dshb.PNG)
+
 ## 📁 Dashboard File  
 👉 **retail_dashboard.pbix**  
 

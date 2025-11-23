@@ -92,5 +92,4 @@ By structuring, cleaning, and visualizing half a million transactions, the dashb
 
 ---
 
-## 📸 Screenshots  
-*(Add your dashboard images here)*  
+
